@@ -1,0 +1,2 @@
+execute if block -260 75 154 stone_pressure_plate[powered=true] run function creativeserver:temple/falltraps/falltrap_5/fall
+execute if block -265 75 155 stone_pressure_plate[powered=true] run function creativeserver:temple/falltraps/falltrap_5/fall
